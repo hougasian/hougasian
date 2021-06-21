@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" alt=“Hougasian’s Github Stats" src="https://github-readme-stats.vercel.app/api?username=hougasian&count_private=true&show_icons=true&hide_border=true" />
+![Hougasian's GitHub stats](https://github-readme-stats.vercel.app/api?username=hougasian&&count_private=true&show_icons=true&hide_border=true)
