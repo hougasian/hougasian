@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 ![Hougasian's GitHub stats](https://github-readme-stats.vercel.app/api?username=hougasian&&count_private=true&show_icons=true&hide_border=true)
 -->
+[Hougasian's GitHub stats](https://github-readme-stats.vercel.app/api?username=hougasian&&count_private=true&show_icons=true&hide_border=true)
 
-I'm Kevin Hougasian &rarr; @hougasian most places ([X](https://twitter.com/hougasian), [github](https://github.com/hougasian), [codepen](https://codepen.io/hougasian)). Currently the Frontend Lead [Ritter Insurance Marketing](http://ritterim.com), writing [here](https://rimdev.io/authors/kevin-hougasian/), and while I use (and encourage!) codepen to work out pieces to share with teammates, [I do get some traction from time to time](https://codepen.io/hougasian/pens/popular) 😜 Past lives have included my own agency, Division manager for web and apps, and Creative Director. 
+I'm Kevin Hougasian &rarr; @hougasian most places (~[X](https://twitter.com/hougasian)~, [mastodon](https://mastodon.social/@hougasian@front-end.social), [github](https://github.com/hougasian), [codepen](https://codepen.io/hougasian)). Sr. Manager, UI/UX Design at [Integrity](https://integrity.com). Former Frontend Lead [Ritter Insurance Marketing](https://ritterim.com), and while I use (and encourage!) codepen to work out pieces to share with teammates, [I do get some traction from time to time](https://codepen.io/hougasian/pens/popular) 😜 Past lives include Sr. Graphic Designer, hougasian.com (contract agency), Division manager for web and app, Creative Director. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=hougasian&show_icons=true&theme=tokyonight" width="500"/>
