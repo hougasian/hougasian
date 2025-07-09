@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 I'm Kevin Hougasian &rarr; @hougasian most places ([X](https://twitter.com/hougasian), [github](https://github.com/hougasian), [codepen](https://codepen.io/hougasian)). Currently the Frontend Lead [Ritter Insurance Marketing](http://ritterim.com), writing [here](https://rimdev.io/authors/kevin-hougasian/), and while I use (and encourage!) codepen to work out pieces to share with teammates, [I do get some traction from time to time](https://codepen.io/hougasian/pens/popular) 😜 Past lives have included my own agency, Division manager for web and apps, and Creative Director. 
 
-<img src="https://github-readme-stats.vercel.app/api?username=hougasian&show_icons=true&theme=tokyonight" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hougasian&show_icons=true&theme=tokyonight" width="500"/>
